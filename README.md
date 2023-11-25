@@ -25,12 +25,12 @@ Python encryption tool👨‍💻❤️
 - ls
 - cd MRX-ENC
 - ls
-- python MRX-ENC.py
+- python3 MRX-ENC.py
 ```
 
 single cmds
 ```python                                
-pkg update && pkg update -y ; pkg install python2 -y ; pkg install python2 -y ; pkg install git -y ; pkg install request ; git clone https://github.com/MRXCOD/MRX-ENC.git ; ls ; cd MRX-ENC ; ls ; python MRX-ENC.py 
+pkg update && pkg update -y ; pkg install python2 -y ; pkg install python2 -y ; pkg install git -y ; pkg install request ; git clone https://github.com/MRXCOD/MRX-ENC.git ; ls ; cd MRX-ENC ; ls ; python3 MRX-ENC.py 
 ```
 
 ![modern-anonymous-concept-with-flat-design_23-2147876484](https://user-images.githubusercontent.com/81558270/128670328-3cc0b237-51c5-47c9-9f5d-3697aea3fb8d.jpg)
